@@ -1,6 +1,4 @@
-# Triple-Ten-Data-Science-Bootcamp-Projects
-
-# Project: Megaline Prepaid Plans Analysis
+# Megaline Prepaid Plans Analysis
 
 ## Introduction:
 
